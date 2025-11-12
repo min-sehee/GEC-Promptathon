@@ -1,5 +1,5 @@
 {
-    "template_name": "PromptTemplate_FC_GEC_sample",
+    "template_name": "PromptTemplate_GEC_sample",
     "description": "GEC 프롬프트 템플릿입니다.",
     "prompt": {
         "system": "당신은 한국어 맞춤법 교정 전문가입니다. 띄어쓰기, 맞춤법, 조사 사용, 문장 부호 등 모든 문법적 오류를 교정합니다. 반드시 교정된 문장만 출력하세요.",
